@@ -1,2 +1,1 @@
-# python
-The hello word
+ hello word
